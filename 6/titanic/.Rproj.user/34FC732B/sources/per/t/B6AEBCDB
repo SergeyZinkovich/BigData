@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1560837050070.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2669346713",
+    "id" : "B6AEBCDB",
+    "lastKnownWriteTime" : 1560870181,
+    "last_content_update" : 1560870181645,
+    "path" : "C:/Users/Saver/Desktop/Новая папка/BigData/6/titanic/8.R",
+    "project_path" : "8.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
